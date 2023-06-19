@@ -1,0 +1,13 @@
+.container-form{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container-form img {
+    width: 800px;
+    height: 1200px;
+}
+.container-form{
+    width: 75%;   
+    background-color: rgb(255, 255, 255);
+}
